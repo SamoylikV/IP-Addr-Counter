@@ -1,0 +1,13 @@
+*.class
+*.log
+.vscode/
+/.project
+/.settings/
+/.metadata/
+.DS_Store
+Thumbs.db
+.env
+*.jar
+*.war
+*.ear
+
